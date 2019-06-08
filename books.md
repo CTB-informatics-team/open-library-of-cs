@@ -1,4 +1,4 @@
-# Folder các tài liệu về thuật toán / CS / CP:
+# Các tài liệu về thuật toán / CS / CP:
  
 ## 1. Các tài liệu ai trong các bạn cũng phải biết :))))
 
