@@ -2,7 +2,7 @@
  
 ## 1. Các tài liệu ai trong các bạn cũng phải biết :))))
 
-_**Các tài liệu trong này bên [VNOI Wiki](http://vnoi.info/wiki) đã liệt kê chi tiết ở [đây](http://vnoi.info/wiki/algo/basic/Tai-Lieu-Thuat-Toan). Tuy nhiên trong trường hợp các liên kết ở đó bị hỏng, các bạn truy cập vào các liên kết trong danh sách này**_
+_**Các tài liệu trong phần này bên [VNOI Wiki](http://vnoi.info/wiki) đã liệt kê chi tiết ở [đây](http://vnoi.info/wiki/algo/basic/Tai-Lieu-Thuat-Toan). Tuy nhiên trong trường hợp các liên kết ở đó bị hỏng, các bạn truy cập vào các liên kết trong danh sách này**_
 
    - Tài liệu giáo khoa chuyên tin
          
@@ -21,3 +21,6 @@ _**Các tài liệu trong này bên [VNOI Wiki](http://vnoi.info/wiki) đã li�
         
 ## 2. Các tài liệu mở rộng
 
+_**Các tài liệu trong phần này mình đã sưu tầm và giữ bí mật suốt 3 năm ở CTB, và giờ là lúc công khai :)))))**_ - bu1th4nh/IT1619
+
+_Coming soon_
