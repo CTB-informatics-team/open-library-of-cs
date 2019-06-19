@@ -37,4 +37,5 @@ _**Các tài liệu trong phần này mình đã sưu tầm và giữ bí mật 
 ### 2.2. Các tài liệu về Lập trình thi đấu
 
    - [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) - Antti Laaksonen
+   - [Competitive Programming, 3rd Edition](https://1drv.ms/b/s!AlSJG-eCrFaAzA6QsDyQkHer643H?e=YafLhk) - Steven & Felix Halim
    
