@@ -58,6 +58,21 @@ _**Các tài liệu trong phần này mình đã sưu tầm và giữ bí mật 
    
    **d. Các cấu trúc dữ liệu liên quan đến xâu**
    - [Chuyên đề: Suffix Trees (Cây hậu tố) và một số ứng dụng trong xử lý xâu](https://1drv.ms/b/s!AlSJG-eCrFaAy0tofx9Z3fEedlNT) - Lê Minh Hoàng
+  
+
+### 2.3. Đồ thị
+   **a. Tổng quan**
+   - [Chuyên đề: Đồ thị](https://1drv.ms/b/s!AlSJG-eCrFaAy3MOJzEVGH4BlBcT) - lê Minh Hoàng
    
+   **b. Bài toán tìm đường đi ngắn nhất và các phân tích lý thuyết**
+   - [Chứng minh lại thuật toán Dijkstra](https://1drv.ms/b/s!AlSJG-eCrFaAy3QZPkQJ6oJPyRZ0) - Nguyễn Tô Sơn/ĐHSPHN
+   - [A Survey of Shortest-Path Algorithms](https://1drv.ms/b/s!AlSJG-eCrFaAyz8sEOvRE555_t6w) - Amgad Madkour, Walid G. Aref, Faizan Ur Rehman, Mohamed Abdur Rahman, Saleh Basalamah
    
+   **c. Bài toán tìm bộ ghép cực đại**
+   - [Bộ ghép cực đại trên đồ thị hai phía](https://1drv.ms/b/s!AlSJG-eCrFaAgY0iSQ3W7gJ8eExFoQ) - Lê Minh Hoàng
+   - [Lecture Notes: Maximum matching in bipartite and non-bipartite graphs](https://1drv.ms/b/s!AlSJG-eCrFaAgcBMMQ9n2_scsMmckQ) - Uri Zwick
+   - [Slide: Hopcroft - Karp Algorithm](https://1drv.ms/b/s!AlSJG-eCrFaAgcBLX7oUQ7tZS3g9EQ) - Stefano Leonardi, Piotr Sankowski, Sapienza University of Rome
    
+   **d. Các chủ đề khác**
+   - [Bài toán 2-SAT](https://1drv.ms/b/s!AlSJG-eCrFaAgbxp-ZrRcaAQne5D5Q) - Phạm Lê Quang/FPT University
+
