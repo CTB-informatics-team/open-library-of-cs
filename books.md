@@ -57,7 +57,7 @@ _**Các tài liệu trong phần này mình đã sưu tầm và giữ bí mật 
    - [Chuyên đề: Stack, Queue và Deque](https://1drv.ms/b/s!AlSJG-eCrFaAz0FbBJ3gClMSoIkg) - Lê Minh Hoàng
    
    **d. Các cấu trúc dữ liệu liên quan đến xâu**
-   - [Chuyên đề: Suffix Trees (Cây hậu tố) và một số ứng dụng trong xử lý xâu](https://1drv.ms/b/s!AlSJG-eCrFaAy0tofx9Z3fEedlNT) - Lê Minh Hoàng
+   - [Chuyên đề: Suffix Trees (Cây hậu tố) và một số ứng dụng trong xử lý xâu](https://1drv.ms/b/s!AlSJG-eCrFaAy0tofx9Z3fEedlNT) - Lê Minh Hoàng _(Chủ đề khó, không dành cho người yếu tim ( ͡° ͜ʖ ͡°))_
   
 
 ### 2.3. Đồ thị
@@ -76,3 +76,14 @@ _**Các tài liệu trong phần này mình đã sưu tầm và giữ bí mật 
    **d. Các chủ đề khác**
    - [Bài toán 2-SAT](https://1drv.ms/b/s!AlSJG-eCrFaAgbxp-ZrRcaAQne5D5Q) - Phạm Lê Quang/FPT University
 
+### 2.4. Hình học tính toán
+   - [Vấn đề giải bài toán hình học trong lập trình](https://1drv.ms/b/s!AlSJG-eCrFaAgP46C0-kqKMuscrBOg)
+   - [Handbook of Geometry for Competitive Programmer](https://vlecomte.github.io/cp-geo.pdf) - Victor Lecomte
+   
+### 2.5. Các chủ đề khác
+   - [Thuật toán Lehmann](https://1drv.ms/b/s!AlSJG-eCrFaAgbt2YSaPxqTlrh61CA) _(Chủ đề khó, không dành cho người yếu tim ( ͡° ͜ʖ ͡°))_
+   
+   
+
+
+   
