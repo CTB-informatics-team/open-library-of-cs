@@ -16,5 +16,5 @@ Open Library Of Computer Science and Competitive Programming (OLCSCP) là một 
 Các bạn có thể mở một [issue](https://github.com/CTB-informatics-team/open-library-of-cs/issues/new) và list những gì bạn muốn đóng góp! Lưu ý bạn cần tài khoản GitHub để làm việc này :D. Nếu chưa có, hãy đăng kí tại [đây](https://github.com/join).
 
 ## 5. Nội dung
- * Về tài liệu / sách: Ở trong file books.md
+ * Về tài liệu / sách: Ở trong file [books.md](https://github.com/CTB-informatics-team/open-library-of-cs/blob/master/books.md)
  * Về các liên kết: Ở trong file links.md
