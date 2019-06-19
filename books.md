@@ -31,6 +31,7 @@ _**Các tài liệu trong phần này mình đã sưu tầm và giữ bí mật 
   **a. Về thuật toán và cách thiết kế giải thuật**
   
    - [Một số khái niệm cơ bản về bài toán trong tin học](https://1drv.ms/b/s!AlSJG-eCrFaAzBTRjhfo3n2n6VxY) - Nguyễn Xuân My/IOICamp
+   - [Introduction to Algorithms, 3rd Edition](https://1drv.ms/b/s!AlSJG-eCrFaAy0zQGyHVzHb-MfGE?e=SQc0Qi) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
    - [Algorithms](https://1drv.ms/b/s!AlSJG-eCrFaAgdoAeKwgtrsZPGnb9w) - Robert Sedgewick & Kevin Wayne
    - [Algorithm Notes for Professional](https://1drv.ms/b/s!AlSJG-eCrFaAgckGtoo-EJbstK69hg) - Open-source
    - [Algorithm Design Manual, 2nd Edition](https://1drv.ms/b/s!AlSJG-eCrFaAzAJUmzskEboKYSy5) - Steven S. Skiena
