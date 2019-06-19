@@ -26,3 +26,15 @@ _**Các tài liệu trong phần này bên [VNOI Wiki](http://vnoi.info/wiki) đ
 
 _**Các tài liệu trong phần này mình đã sưu tầm và giữ bí mật suốt 3 năm ở CTB, và giờ là lúc công khai :)))))**_ - bu1th4nh/IT1619
 
+### 2.1. Các tài liệu về Thuật toán nói chung và cách thiết kế giải thuật:
+    
+   - [Một số khái niệm cơ bản về bài toán trong tin học](https://1drv.ms/b/s!AlSJG-eCrFaAzBTRjhfo3n2n6VxY) - Nguyễn Xuân My/IOICamp
+   - [Kỹ thuật thiết kế giải thuật cho các cuộc thi lập trình](https://1drv.ms/b/s!AlSJG-eCrFaAgb9Q6DZZ7waR22S1pw) - Phạm Nguyên Khang/CIT
+   - [Algorithm Notes for Professional](https://1drv.ms/b/s!AlSJG-eCrFaAgckGtoo-EJbstK69hg) - Open-source
+   - [Algorithm Design Manual, 2nd Edition](https://1drv.ms/b/s!AlSJG-eCrFaAzAJUmzskEboKYSy5) - Steven S. Skiena
+   - [Algorithms](https://1drv.ms/b/s!AlSJG-eCrFaAgdoAeKwgtrsZPGnb9w) - Robert Sedgewick & Kevin Wayne
+   
+### 2.2. Các tài liệu về Lập trình thi đấu
+
+   - [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) - Antti Laaksonen
+   
