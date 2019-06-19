@@ -38,4 +38,5 @@ _**Các tài liệu trong phần này mình đã sưu tầm và giữ bí mật 
 
    - [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf) - Antti Laaksonen
    - [Competitive Programming, 3rd Edition](https://1drv.ms/b/s!AlSJG-eCrFaAzA6QsDyQkHer643H?e=YafLhk) - Steven & Felix Halim
+   - [The Hitchhiker’s Guide to the Programming Contests](https://1drv.ms/b/s!AlSJG-eCrFaAgeNWz2pdAKZYFEuflQ) - Nite Nimajneb
    
