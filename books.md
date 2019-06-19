@@ -56,5 +56,8 @@ _**Các tài liệu trong phần này mình đã sưu tầm và giữ bí mật 
    **c. Stack và Queue**
    - [Chuyên đề: Stack, Queue và Deque](https://1drv.ms/b/s!AlSJG-eCrFaAz0FbBJ3gClMSoIkg) - Lê Minh Hoàng
    
+   **d. Các cấu trúc dữ liệu liên quan đến xâu**
+   - [Chuyên đề: Suffix Trees (Cây hậu tố) và một số ứng dụng trong xử lý xâu](https://1drv.ms/b/s!AlSJG-eCrFaAy0tofx9Z3fEedlNT) - Lê Minh Hoàng
+   
    
    
