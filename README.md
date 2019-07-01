@@ -1,7 +1,7 @@
-# Open Library Of Computer Science and Competitive Programming (OLCSCP)
+# Open Library Of Computer Science and Competitive Programming
 
 ## 1. Đây là gì?
-Open Library Of Computer Science and Competitive Programming (OLCSCP) là một thư viện mở, gồm những tài liệu về Khoa học máy tính (Computer Science - CS) và Lập trình thi đấu (Competitive Programming - CP), dành cho các bạn CTBers yêu thích CS và CP, đặc biệt là các bạn đã/đang hoặc sẽ vào đội tuyển HSG
+Open Library Of Computer Science and Competitive Programming là một thư viện mở, gồm những tài liệu về Khoa học máy tính (Computer Science - CS) và Lập trình thi đấu (Competitive Programming - CP), dành cho các bạn CTBers yêu thích CS và CP, đặc biệt là các bạn đã/đang hoặc sẽ vào đội tuyển HSG
 
 ## 2. Tác giả và những người đóng góp
  * [bu1th4nh](github.com/bu1th4nh) - Tin, khóa 2016 - 2019 - Tác giả, đạo diễn
