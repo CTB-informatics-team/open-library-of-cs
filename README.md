@@ -4,7 +4,7 @@
 Open Library Of Computer Science and Competitive Programming là một thư viện mở, gồm những tài liệu về Khoa học máy tính (Computer Science - CS) và Lập trình thi đấu (Competitive Programming - CP), dành cho các bạn CTBers yêu thích CS và CP, đặc biệt là các bạn đã/đang hoặc sẽ vào đội tuyển HSG
 
 ## 2. Tác giả và những người đóng góp
- * [bu1th4nh](github.com/bu1th4nh) - Tin, khóa 2016 - 2019 - Tác giả, đạo diễn
+ * [bu1th4nh](https://github.com/bu1th4nh) - Tin, khóa 2016 - 2019 - Tác giả, đạo diễn
   
 
 ## 3. Các dự án tương tự (hãy ghé qua!)
