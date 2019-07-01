@@ -9,6 +9,8 @@
    * [Timus](http://acm.timus.ru/) Là trang web giải bài trực tuyến lâu đời của Nga, gồm các bài tập từ các cuộc thi của Đại học Liên bang Ural như Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps.
    * [POJ](http://poj.org/) Là trang giải bài trực tuyến của Đại học Bắc Kinh (Trung Quốc) với nhiều bài tập hay. Đây là nơi bắt đầu của rất nhiều huyền thoại về CP Trung Quốc.
    * [Kattis](https://open.kattis.com) Là trang contest online với nguồn bài từ các kì ACM-ICPC của các nước và ICPC World Final
+   * [USACO](http://www.usaco.org/) Trang thi trực tuyến của Mỹ, với các bài tập liên quan đến cô bò BeSsiE :)))
+   * [COCI](http://www.hsin.hr/coci/) Trang thi trực tuyến mở của Croatia.
    * [Free Contest](https://freecontest.xyz/home) Là trang contest online miễn phí được lập ra bởi anh [Nguyễn Tiến Trung Kiên](https://www.facebook.com/nttkien), các kì thi được tổ chức 2 tuần/lần cho các bạn học sinh, sinh viên.
 
 ## 2. Các trang web / blog hay về Thuật toán
@@ -20,7 +22,8 @@
    * [Giải Thuật Lập Trình](http://www.giaithuatlaptrinh.com/?page_id=4) Blog về thuật toán của anh Hùng Lê, ĐH Victoria
    * [Topcoder Data Science Tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/)
    * [Competitive Programming: From Beginner to Expert - CommonLounge](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main?r=fbp&p=cp)
-   
+   * [GeeksforGeeks](https://www.geeksforgeeks.org) - Một trang về lập trình thi đấu nổi tiếng, là nguồn tài nguyên về thuạt toán dồi dào
+   * [CodeBabe]() - À cái này thì........
    
    
 ## 3. Các trang web về phần cái đặt các thuật toán và các cấu trúc dữ liệu
