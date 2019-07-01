@@ -16,6 +16,11 @@
    * [Codeforces - An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054?mobile=false&locale=en)
    * [E-Maxx (RU)](emaxx.ru) - Trang chuyên về thuật toán (Bằng tiếng Nga) (Các bạn có thể google dịch =)) )
    * [E-Maxx (EN)](http://cp-algorithms.com/) Phiên bản tiếng Anh của E-Maxx.
+   * [#Team4T's Coding Site](https://thuytrangcoding.wordpress.com/) Trang thuật toán của #Team4T: Trần Thị Thùy Trang, Ngô Thị Ngọc Mai và Lê Duy Bách.
+   * [Giải Thuật Lập Trình](http://www.giaithuatlaptrinh.com/?page_id=4) Blog về thuật toán của anh Hùng Lê, ĐH Victoria
+   * [Topcoder Data Science Tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+   * [Competitive Programming: From Beginner to Expert - CommonLounge](https://www.commonlounge.com/discussion/5d2822257dfa49328d85fd27cf114441/main?r=fbp&p=cp)
+   
    
    
 ## 3. Các trang web về phần cái đặt các thuật toán và các cấu trúc dữ liệu
