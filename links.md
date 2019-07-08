@@ -50,7 +50,11 @@
    * [VietCodes](https://vietcodes.github.io/) - Ngoài các lời giải và code mẫu cho các bài tập thì trang này còn có các bài viết về các thuật toán thông dụng và cách cài đặt bằng C++, Python 3 và Rust.
    * [Cowboy Coder](https://cowboycoder.tech/) - Trang này không chỉ cung cấp những lời giải về các bài tập hay và khó trên mạng mà còn có các series về kiến thức lập trình và những kinh nghiệm trong nghề.
    
-## 5. Các công cụ hữu ích cho các bạn
+## 5. Về các thủ thuật liên quan đến ngôn ngữ lập trình
+   * [C++ Tricks](https://codeforces.com/blog/entry/15643) - Blog entry của Codeforces-er [Swift](https://codeforces.com/profile/Swift) về các thủ thuật với C++ trong lập trình thi đấu.
+   * [C++ STL: Policy based data structures - Part 1](https://codeforces.com/blog/entry/11080), [Part 2](http://codeforces.com/blog/entry/13279) - Blog entry của Codeforces-er [adamant](https://codeforces.com/profile/adamant) về cấu trúc dữ liệu tùy chỉnh cài sẵn trong C++, đặc biệt là Trie và Ordered Set.
+   
+## 6. Các công cụ hữu ích cho các bạn
    * [VisuAlgo](https://visualgo.net/vi) - Công cụ giúp mô phỏng các thuật toán và các cấu trúc dữ liệu thông qua hoạt ảnh.
    * [String Matching Visualization](http://whocouldthat.be/visualizing-string-matching/) - Mô phỏng một số thuật toán so khớp chuỗi nổi tiếng.
    * [Graph Editor - CSAcademy](https://csacademy.com/app/graph_editor/) - Một công cụ của CSAcademy hỗ trợ cho việc vẽ đồ thị.
