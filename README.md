@@ -3,7 +3,7 @@
 ## 1. Đây là gì?
 Open Library Of Computer Science and Competitive Programming là một thư viện mở, gồm những tài liệu về Khoa học máy tính (Computer Science - CS) và Lập trình thi đấu (Competitive Programming - CP), dành cho các bạn CTBers yêu thích CS và CP, đặc biệt là các bạn đã/đang hoặc sẽ vào đội tuyển HSG.
 
-## 2. Học tin như thế nào?
+### 1.5. Học tin như thế nào?
 Xem ở [đây](http://vnoi.info/wiki/algo/basic/hoc-tin-the-nao-2)
 
 ## 2. Tác giả & Những người đóng góp
