@@ -18,7 +18,6 @@
 ## 2. Các trang web / blog hay về Thuật toán
    * [VNOI Wiki](vnoi.info/wiki/home) - Là một trong những nguồn tài liệu về CS/CP đầy đủ nhất của Việt Nam.
    * [#Team4T's Coding Site](https://thuytrangcoding.wordpress.com/) - Trang thuật toán của #Team4T: Trần Thị Thùy Trang, Ngô Thị Ngọc Mai và Lê Duy Bách.
-   * [Codeforces - An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054?mobile=false&locale=en) - Blog entry của Codeforces-er [lnishan](https://codeforces.com/profile/lnishan), là một trong những nguồn tài nguyên về thuật toán đầy đủ nhất và cũng là một trong những nguồn để mình tạo nên thứ này =))).
    * [Giải Thuật Lập Trình](http://www.giaithuatlaptrinh.com/?page_id=4) - Blog về thuật toán của anh Hùng Lê, ĐH Victoria.
    * [E-Maxx (RU)](emaxx.ru) - Trang chuyên về thuật toán (Bằng tiếng Nga) (Các bạn có thể google dịch =)) ).
    * [E-Maxx (EN)](http://cp-algorithms.com/) - Phiên bản tiếng Anh của E-Maxx.  
@@ -29,6 +28,11 @@
    * [Algorithm Notes](http://www.csie.ntnu.edu.tw/~u91029/) - Trang web về thuật toán nổi tiếng trong cộng đồng CP Đài Loan (Bằng tiếng Trung) - Một lần nữa các bạn hãy Google dịch =))).
    * [CodeBabe]() - À cái này thì........ ( ͡° ͜ʖ ͡°) `tự google đi bạn`
    
+## 2.5. Các blog entries hay trên Codeforces về thuật toán   
+   * [Codeforces - An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054?mobile=false&locale=en) - Blog entry của Codeforces-er [lnishan](https://codeforces.com/profile/lnishan), là một trong những nguồn tài nguyên về thuật toán đầy đủ nhất và cũng là một trong những nguồn để mình tạo nên thứ này =))).
+   * [All of the good tutorials found on codeforces](https://codeforces.com/blog/entry/57282) - Blog entry của Codeforces-er [Underdog_eagle](https://codeforces.com/profile/Underdog_eagle) - là danh sách các bài hướng dẫn hay trên Codeforces.
+   * [Good Blog Post Resources about Algorithm and Data Structures](https://codeforces.com/blog/entry/13529) - Blog entry của Codeforces-er [Akin](https://codeforces.com/profile/Akin) - là danh sách các bài viết về các thuật toán và CTDL trên Codeforces.
+   
    
 ## 3. Các trang web về thư viện code và phần cái đặt các thuật toán và các cấu trúc dữ liệu
    * [kc97ble](https://sites.google.com/site/kc97ble/) - Trang này chứa phần cài đặt của các thuật toán thông dụng được lập nên bởi anh [Nguyễn Tiến Trung Kiên](https://www.facebook.com/nttkien).
@@ -37,7 +41,7 @@
    * [CodeLibrary](http://code-library.herokuapp.com/) - Thư viện về thuật toán và CTDL của Andrey Naumenko (indy256), được viết bằng C++ và Java. Xem qua Git Repository của anh ấy tại [đây](https://github.com/indy256/codelibrary).
    * [KATCL - KTH Algorithm Competition Template Library](https://github.com/kth-competitive-programming/kactl) - Team notebook Đội tuyển ICPC của Viện Công nghệ Hoàng gia KTH, Stockholm, Thụy Điển. Các thuật toán được cài đặt đầy đủ và đã qua kiểm thử.
    * [Stanford ACM-ICPC](https://github.com/jaehyunp/stanfordacm) - Team notebook Đội tuyển ICPC của Đại học Stanford.
-   
+   * [Heavy-light decomposition implementation](https://codeforces.com/blog/entry/22072) - Một cách cài đặt hay cho phương pháp [Heavy-Light Decomposition](https://vnoi.info/wiki/algo/data-structures/heavy-light-decomposition) của Codeforces-er [AI.Cash](https://codeforces.com/profile/Al.Cash).
 
 ## 4. Các trang web về lời giải của một số bài tập trên các nền tảng giải bài trực tuyến
    * [VNOI](http://vnoi.info/problems/list/) - Trang web này ban đầu là diễn đàn CP Việt Nam, nhưng bây giờ phần diễn đàn đã chuyển sang [nhóm Facebook VNOI](https://www.facebook.com/groups/VNOIForum/) và trang web này bây giờ lưu trữ đề bài và một số lời giải cho khoảng hơn 500 bài tập trên VNOI (SPOJ Việt Nam).
@@ -56,5 +60,4 @@
    
    
 
-   
-
+ 
