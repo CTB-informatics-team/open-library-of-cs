@@ -2,7 +2,7 @@
 
 ## 1. Các trang web luyện tập & thi trực tuyến
    * [Vjudge](https://vjudge.net/) - Là trang thi trực tuyến với khả năng **mashup** các bài tập từ các trang giải bài trực tuyến khác nhau.
-   * SPOJ ([Tiếng Việt](http://vn.spoj.com) , [Toàn cầu](https://www.spoj.com/)) - Là trang giải bài trực tuyến _thần thánh_ mà bất cứ bạn HS chuyên Tin nào cũng phải biết. Trang web này chứa rất nhiều các bài tập từ nhiều nguồn khác nhau (trong đó có các bài từ các kì thi HSG Quốc gia năm trước) cho các bạn luyện tập. Rất nhiều huyền thoại trong làng CP Việt Nam ra đời từ đây.
+   * SPOJ ([Tiếng Việt - VOJ / VNOI](http://vn.spoj.com) , [Toàn cầu](https://www.spoj.com/)) - Là trang giải bài trực tuyến _thần thánh_ mà bất cứ bạn HS chuyên Tin nào cũng phải biết. Trang web này chứa rất nhiều các bài tập từ nhiều nguồn khác nhau (trong đó có các bài từ các kì thi HSG Quốc gia năm trước) cho các bạn luyện tập. Rất nhiều huyền thoại trong làng CP Việt Nam ra đời từ đây.
    * [Free Contest](https://freecontest.xyz/home) - Là trang contest online miễn phí được lập ra bởi anh [Nguyễn Tiến Trung Kiên](https://www.facebook.com/nttkien), các kì thi được tổ chức 2 tuần/lần cho các bạn học sinh, sinh viên.
    * [Codeforces](https://codeforces.com/) - Cũng là một trang giải bài trực tuyến mà bất cứ bạn HS chuyên Tin nào cũng phải biết. Trang web này tập trung rất nhiều kì thi, bài tập chất lượng được tổ chức 2 hoặc 3 tuần một lần và đều có lời giải sau mỗi kì thi. Codeforces cũng là một diễn đàn về thuật toán và có rất nhiều các bài viết hay và là một cộng đồng lớn về lập trình thi đấu trên thế giới.
    * [Topcoder](https://www.topcoder.com/) - Tương tự Codeforces, Topcoder cũng là một trang thi trực tuyến lớn với rất nhiều bài tập hay, khó và các kì SRM (Single Round Match) cho các bạn luyện tập
@@ -30,12 +30,21 @@
    * [CodeBabe]() - À cái này thì........ ( ͡° ͜ʖ ͡°) `tự google đi bạn`
    
    
-## 3. Các trang web về phần cái đặt các thuật toán và các cấu trúc dữ liệu
+## 3. Các trang web về thư viện code và phần cái đặt các thuật toán và các cấu trúc dữ liệu
    * [kc97ble](https://sites.google.com/site/kc97ble/) - Trang này chứa phần cài đặt của các thuật toán thông dụng được lập nên bởi anh [Nguyễn Tiến Trung Kiên](https://www.facebook.com/nttkien)
    * [ACM_Notebook_new](https://github.com/ngthanhtrung23/ACM_Notebook_new) - Team notebook của đội RRWatameda (Nguyễn Thành Trung(I_love_Hoang_Yen), Nguyên Nguyễn(flashmt) và Nguyễn Hùng Tâm) từ Đại học Quốc gia Singapore cho ACM-ICPC World Final 2016.
    * [duc0/ContestNeko](https://github.com/duc0/ContestNeko) - Thư viện của anh Ngô Minh Đức, PTNK (?)
    * [CodeLibrary](http://code-library.herokuapp.com/) - Thư viện về thuật toán và CTDL của Andrey Naumenko (indy256), được viết bằng C++ và Java. Xem qua Git Repository của anh ấy tại [đây](https://github.com/indy256/codelibrary)
    * [KATCL - KTH Algorithm Competition Template Library](https://github.com/kth-competitive-programming/kactl) - Team notebook Đội tuyển ICPC của Viện Công nghệ Hoàng gia KTH, Stockholm, Thụy Điển. Các thuật toán được cài đặt đầy đủ và đã qua kiểm thử
    * [Stanford ACM-ICPC](https://github.com/jaehyunp/stanfordacm) - Team notebook Đội tuyển ICPC của Đại học Stanford
+   
+
+## 4. Các trang web về lời giải của một số bài tập trên các nền tảng giải bài trực tuyến
+   * [VNOI](http://vnoi.info/problems/list/) - Trang web này ban đầu là diễn đàn CP Việt Nam, nhưng bây giờ phần diễn đàn đã chuyển sang [nhóm Facebook VNOI](https://www.facebook.com/groups/VNOIForum/) và trang web này bây giờ lưu trữ đề bài và một số lời giải cho khoảng hơn 500 bài tập trên VNOI (SPOJ Việt Nam).
+   * [Trái táo đỏ](https://traitaodo.wordpress.com/) - Blog của bạn Nguyễn Lê Duy.
+   * [Doraemonvodanh](https://doraemonvodanh.wordpress.com/) - Blog của một bạn nào đó cũng về thuật toán
+   * [VietCodes](https://vietcodes.github.io/) - Ngoài các lời giải và code mẫu cho các bài tập thì trang này còn có các bài viết về các thuật toán thông dụng và cách cài đặt bằng C++, Python 3 và Rust
+   * [Cowboy Coder](https://cowboycoder.tech/) - Trang này không chỉ cung cấp những lời giải về các bài tập hay và khó trên mạng mà còn có các series về kiến thức lập trình và những kinh nghiệm trong nghề.
+   
    
 
