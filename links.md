@@ -53,6 +53,7 @@
 ## 5. Về các thủ thuật liên quan đến ngôn ngữ lập trình
    * [C++ Tricks](https://codeforces.com/blog/entry/15643) - Blog entry của Codeforces-er [Swift](https://codeforces.com/profile/Swift) về các thủ thuật với C++ trong lập trình thi đấu.
    * [C++ STL: Policy based data structures - Part 1](https://codeforces.com/blog/entry/11080), [Part 2](http://codeforces.com/blog/entry/13279) - Blog entry của Codeforces-er [adamant](https://codeforces.com/profile/adamant) về cấu trúc dữ liệu tùy chỉnh cài sẵn trong C++, đặc biệt là Trie và Ordered Set.
+   * [bu1th4nh - Fast IO](https://github.com/bu1th4nh/Code_Library/blob/master/Utilities/fast_io/fast_io.h) - Code thủ thuật đọc số nguyên nhanh của mình với các bài tập chấm trên Themis.
    
 ## 6. Các công cụ hữu ích cho các bạn
    * [VisuAlgo](https://visualgo.net/vi) - Công cụ giúp mô phỏng các thuật toán và các cấu trúc dữ liệu thông qua hoạt ảnh.
@@ -62,6 +63,9 @@
    * [HackerRank Contest Calendar](https://www.hackerrank.com/calendar) - Lịch các kì thi đã, đang, sẽ diễn ra trên tất cả các nền tảng thi lập trình trực tuyến.
    * [Spotify](https://open.spotify.com) - Để nghe nhạc thôi 😂
    
+## 7. Phần mềm và web interfaces
+   * [Themis](https://dsapblog.wordpress.com/2013/12/24/themis/) - Chương trình chấm bài tự động, được build bới thầy Lê Minh Hoàng và thầy Đỗ Đức Đông.
+   * [Themis Interface 1](http://www.mediafire.com/file/s8as1dtbqas7cxj/JUDGER.zip) - Giao diện website chấm bài online trực tuyến sử dụng Themis viết bởi thầy Nguyễn Hoàng Phú (THPT chuyên Lý Tự Trọng, Cần Thơ), bổ sung bảng điểm của thầy Nguyễn Văn Hiếu (THPT chuyên Hưng Yên). Có thể sử dụng cho Windows 32 và 64 bit, song giao diện không đẹp như phiên bản TWI của anh Phạm Cao Nguyên.
+   * [Themis Interface 2 - Natsu Kagami](https://github.com/natsukagami/themis-web-interface/releases) - Giao diện website chấm bài online trực tuyến sử dụng Themis viết bởi anh Phạm Cao Nguyên. **Chỉ sử dụng cho phiên bản Windows 64 bit.**
    
 
- 
