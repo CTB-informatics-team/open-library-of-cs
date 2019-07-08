@@ -46,5 +46,15 @@
    * [VietCodes](https://vietcodes.github.io/) - Ngoài các lời giải và code mẫu cho các bài tập thì trang này còn có các bài viết về các thuật toán thông dụng và cách cài đặt bằng C++, Python 3 và Rust
    * [Cowboy Coder](https://cowboycoder.tech/) - Trang này không chỉ cung cấp những lời giải về các bài tập hay và khó trên mạng mà còn có các series về kiến thức lập trình và những kinh nghiệm trong nghề.
    
+## 5. Các công cụ hữu ích cho các bạn
+   * [VisuAlgo](https://visualgo.net/vi) - Công cụ giúp mô phỏng các thuật toán và các cấu trúc dữ liệu thông qua hoạt ảnh.
+   * [String Matching Visualization](http://whocouldthat.be/visualizing-string-matching/) Mô phỏng một số thuật toán so khớp chuỗi nổi tiếng.
+   * [Graph Editor - CSAcademy](https://csacademy.com/app/graph_editor/) - Một công cụ của CSAcademy hỗ trợ cho việc vẽ đồ thị.
+   * [Wolfram|Alpha](https://wolframalpha.com) - Bộ công cụ xử lý ngôn ngữ tự nhiên, khảo sát hàm số.....
+   * [HackerRank Contest Calendar](https://www.hackerrank.com/calendar) - Lịch các kì thi đã, đang, sẽ diễn ra trên tất cả các nền tảng thi lập trình trực tuyến.
+   * [Spotify](https://open.spotify.com) Để nghe nhạc thôi 😂
+   
+   
+
    
 
