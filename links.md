@@ -48,7 +48,7 @@
    
 ## 5. Các công cụ hữu ích cho các bạn
    * [VisuAlgo](https://visualgo.net/vi) - Công cụ giúp mô phỏng các thuật toán và các cấu trúc dữ liệu thông qua hoạt ảnh.
-   * [String Matching Visualization](http://whocouldthat.be/visualizing-string-matching/) Mô phỏng một số thuật toán so khớp chuỗi nổi tiếng.
+   * [String Matching Visualization](http://whocouldthat.be/visualizing-string-matching/) - Mô phỏng một số thuật toán so khớp chuỗi nổi tiếng.
    * [Graph Editor - CSAcademy](https://csacademy.com/app/graph_editor/) - Một công cụ của CSAcademy hỗ trợ cho việc vẽ đồ thị.
    * [Wolfram|Alpha](https://wolframalpha.com) - Bộ công cụ xử lý ngôn ngữ tự nhiên, khảo sát hàm số.....
    * [HackerRank Contest Calendar](https://www.hackerrank.com/calendar) - Lịch các kì thi đã, đang, sẽ diễn ra trên tất cả các nền tảng thi lập trình trực tuyến.
