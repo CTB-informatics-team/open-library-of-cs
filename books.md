@@ -86,6 +86,6 @@ _**Các tài liệu trong phần này mình đã sưu tầm và giữ bí mật 
    
    
 
-**DISCLAIMER: Đây là những tài liệu mình sưu tầm trong suốt 3 năm học đội tuyển ở CTB và hoàn toàn phục vụ cho mục đích giáo dục và phi lợi nhuận (educational purpose only). Nếu các bạn muốn ủng hộ tác giả của các bộ tài liệu trên, hãy MUA nó**
+**DISCLAIMER: Đây là những tài liệu mình sưu tầm trong suốt 3 năm học đội tuyển ở CTB. Mình KHÔNG sở hữu quyền với BẤT KỲ tài liệu nào trong file markdown này. Do đó KHÔNG được sử dụng những tài liệu này với mục đích thương mại và chỉ sử dụng cho mục đích học tập**
 
 _bu1th4nh_
