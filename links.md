@@ -69,6 +69,6 @@
    * [Themis Interface 2 - Natsu Kagami](https://github.com/natsukagami/themis-web-interface/releases) - Giao diện website chấm bài online trực tuyến sử dụng Themis viết bởi anh Phạm Cao Nguyên. **Chỉ sử dụng cho phiên bản Windows 64 bit.**
    
    
-   _(còn tiếp, chưa hết đâu :smirk:)_
+   _(còn tiếp, chưa hết đâu :wink:)_
    
 
