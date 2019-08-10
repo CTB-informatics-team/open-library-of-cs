@@ -68,4 +68,7 @@
    * [Themis Interface 1](http://www.mediafire.com/file/s8as1dtbqas7cxj/JUDGER.zip) - Giao diện website chấm bài online trực tuyến sử dụng Themis viết bởi thầy Nguyễn Hoàng Phú (THPT chuyên Lý Tự Trọng, Cần Thơ), bổ sung bảng điểm của thầy Nguyễn Văn Hiếu (THPT chuyên Hưng Yên). Có thể sử dụng cho Windows 32 và 64 bit, song giao diện không đẹp như phiên bản TWI của anh Phạm Cao Nguyên.
    * [Themis Interface 2 - Natsu Kagami](https://github.com/natsukagami/themis-web-interface/releases) - Giao diện website chấm bài online trực tuyến sử dụng Themis viết bởi anh Phạm Cao Nguyên. **Chỉ sử dụng cho phiên bản Windows 64 bit.**
    
+   
+   _(còn tiếp, chưa hoàn thành đâu :smirk:)_
+   
 
