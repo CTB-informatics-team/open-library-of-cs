@@ -53,6 +53,5 @@ Bây giờ là lúc các bạn luyện những bài đầu tiên để làm quen
 Hoặc là các bạn truy cập luôn link này, bỏ qua 3 bước trên: https://codeforces.com/problemset?order=BY_SOLVED_DESC&tags=0-1000
  
 ## 5. The Next Level
-Phần hướng dẫn cho các bạn mới bắt đầu đã xong. Hy vọng sau bài này các bạn sẽ học được cái gì đó có ích cho mình. Và tất nhiên, đây cũng chỉ là ý kiến cá nhân của mình và có thể còn thiếu sót, mong mọi người góp ý để bài viết được chính xác và hữu ích hơn.
-
-Thanks for reading.
+Phần hướng dẫn cho các bạn mới bắt đầu đã xong. Hy vọng sau bài này các bạn sẽ học được cái gì đó có ích cho mình. Và tất nhiên bài viết này cũng xuất phát từ ý kiến cá nhân của mình và có thể còn thiếu hoặc sai sót, mong mọi người góp ý để bài viết được chính xác, đầy đủ và hữu ích hơn.
+Thanks for reading :smile:
