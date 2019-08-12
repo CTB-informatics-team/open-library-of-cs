@@ -1,7 +1,7 @@
 # Open Library Of Computer Science and Competitive Programming
 
 ## 1. Đây là gì?
-Open Library Of Computer Science and Competitive Programming là một thư viện mở, gồm những tài liệu về Khoa học máy tính (Computer Science - CS) và Lập trình thi đấu (Competitive Programming - CP), dành cho các bạn CTBers yêu thích CS và CP, đặc biệt là các bạn đã/đang hoặc sẽ vào đội tuyển HSG.
+Open Library Of Computer Science and Competitive Programming là một thư viện mở, gồm những tài liệu về Khoa học máy tính (Computer Science - CS) và Lập trình thi đấu (Competitive Programming - CP), dành cho các bạn CTBers yêu thích CS và CP, đặc biệt là các bạn đã/đang hoặc sẽ vào đội tuyển HSG. Và tất nhiên đây cũng xuất phát từ ý kiến cá nhân của mình và có thể còn thiếu hoặc sai sót, mong mọi người góp ý để dự án được chính xác, đầy đủ và hữu ích hơn.
 
 ### 1.25. "Em học tin nhưng chưa biết bắt đầu từ đâu...... blah blah blah"
 Vào [beginner.md](https://github.com/CTB-informatics-team/open-library-of-cs/blob/master/beginner.md) nha các bạn.
@@ -27,3 +27,5 @@ Chủ yếu là tiếng Việt và tiếng Anh. Với các bạn gặp khó khă
  * [VNOI Wiki](vnoi.info/wiki/home) - Là một trong những nguồn tài liệu về CS/CP đầy đủ nhất của Việt Nam
  * [E-Maxx (RU)](emaxx.ru) - Trang chuyên về thuật toán (Bằng tiếng Nga) (Các bạn có thể google dịch =)) )
  * [Codeforces - An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054?mobile=false&locale=en)
+
+Thanks for reading :smile:
