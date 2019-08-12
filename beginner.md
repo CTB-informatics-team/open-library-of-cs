@@ -36,8 +36,9 @@ Theo ý kiến cá nhân của mình, mình thường học ở đây:
 _(coming soon)_
 
 # 4. Let's get started - Bắt đầu thôi :relaxed:
-_(các bạn phải code xong chương trình Hello World đã rồi mới đọc đến đây)_
-Bây giờ là lúc các bạn luyện những bài đầu tiên.
+_(các bạn phải code xong chương trình Hello World đã rồi mới đọc đến đây)_ 
+
+Bây giờ là lúc các bạn luyện những bài đầu tiên để làm quen và "luyện tay". Mình khuyến khích các bạn làm những bài dễ nhất, làm càng nhanh càng tốt những bài này. Những bài này sẽ là các bài A và B trên Codeforces. Để tìm bài, các bạn làm trong hướng dẫn ở video dưới đây:
 
 # 5. Kinh nghiệm của các anh chị đi trước
 
