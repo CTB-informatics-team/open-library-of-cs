@@ -53,7 +53,6 @@
 ## 5. Về các thủ thuật liên quan đến ngôn ngữ lập trình
    * [C++ Tricks](https://codeforces.com/blog/entry/15643) - Blog entry của Codeforces-er [Swift](https://codeforces.com/profile/Swift) về các thủ thuật với C++ trong lập trình thi đấu.
    * [C++ STL: Policy based data structures - Part 1](https://codeforces.com/blog/entry/11080), [Part 2](http://codeforces.com/blog/entry/13279) - Blog entry của Codeforces-er [adamant](https://codeforces.com/profile/adamant) về cấu trúc dữ liệu tùy chỉnh cài sẵn trong C++, đặc biệt là Trie và Ordered Set.
-   * [bu1th4nh - Fast IO](https://github.com/bu1th4nh/Code_Library/blob/master/Utilities/fast_io/fast_io.h) - Code thủ thuật đọc số nguyên nhanh của mình với các bài tập chấm trên Themis.
    
 ## 6. Các công cụ hữu ích cho các bạn
    * [VisuAlgo](https://visualgo.net/vi) - Công cụ giúp mô phỏng các thuật toán và các cấu trúc dữ liệu thông qua hoạt ảnh.
