@@ -19,7 +19,7 @@
    * [VNOI Wiki](vnoi.info/wiki/home) - Là một trong những nguồn tài liệu về CS/CP đầy đủ nhất của Việt Nam.
    * [#Team4T's Coding Site](https://thuytrangcoding.wordpress.com/) - Trang thuật toán của #Team4T: Trần Thị Thùy Trang, Ngô Thị Ngọc Mai và Lê Duy Bách.
    * [Giải Thuật Lập Trình](http://www.giaithuatlaptrinh.com/?page_id=4) - Blog về thuật toán của anh Hùng Lê, ĐH Victoria.
-   * [E-Maxx (RU)](emaxx.ru) - Trang chuyên về thuật toán (Bằng tiếng Nga) (Các bạn có thể google dịch =)) ).
+   * [E-Maxx (RU)](http://emaxx.ru) - Trang chuyên về thuật toán (Bằng tiếng Nga) (Các bạn có thể google dịch =)) ).
    * [E-Maxx (EN)](http://cp-algorithms.com/) - Phiên bản tiếng Anh của E-Maxx.  
    * [Topcoder Data Science Tutorial](https://www.topcoder.com/community/data-science/data-science-tutorials/) - Series các bài viết về các thuật toán và CP.
    * [GeeksforGeeks](https://www.geeksforgeeks.org) - Một trang về lập trình thi đấu nổi tiếng, là nguồn tài nguyên dồi dào về thuật toán.
