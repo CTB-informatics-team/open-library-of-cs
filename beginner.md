@@ -39,7 +39,15 @@ _(coming soon)_
 ## 4. Let's get started - Bắt đầu thôi :relaxed:
 _(các bạn phải code xong chương trình Hello World đã rồi mới đọc đến đây)_ 
 
-Bây giờ là lúc các bạn luyện những bài đầu tiên để làm quen và "luyện tay". Mình khuyến khích các bạn làm những bài dễ nhất, làm càng nhanh càng tốt những bài này. Những bài này sẽ là các bài A và B trên Codeforces. Trước hết, các bạn tạo tài khoản Codeforces. Sau đó, để tìm bài, các bạn làm theo các bước sau:
+Bây giờ là lúc các bạn luyện những bài đầu tiên để làm quen và "luyện tay". Mình khuyến khích các bạn làm những bài dễ nhất, làm càng nhanh càng tốt những bài trong các trang web này. 
+
+### Phương án 1: [Codefun.vn](https://codefun.vn/)
+
+Trang web này do thầy [Hồ Đắc Phương](https://www.facebook.com/ho.dacphuong) lập nên, có những bài ở mức độ cơ bản cho các bạn thoải mái "cào phím" :))))). Các bạn hãy liên hệ với thầy Phương để tạo nick và giải bài nhé :smile:
+
+### Phương án 2: [Codeforces](http://codeforces.com)
+
+Những bài trong phương án này sẽ là các bài A và B trên Codeforces, có thể "nhìn phát biết giải luôn". Trước hết, các bạn tạo tài khoản Codeforces. Sau đó, để tìm bài, các bạn làm theo các bước sau:
 
 #### B1: Ở trang chủ Codeforces, các bạn vào mục **Problemset** như trong hình
 ![alt text](tut1.PNG)
